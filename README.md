@@ -83,6 +83,8 @@ This graph contains the time series representation of the number of monthly covi
 Correlation - Number of covid cases and Unemployment Rate 
  ![3](https://github.com/03ananya/Project_Part_4/blob/main/Plots/Correlation%20-%20Number%20of%20covid%20cases%20and%20Unemployment%20Rate.png)
 
+
+- **Correlation Plots
 Correlation - Number of covid cases and UI Claims
  ![4](https://github.com/03ananya/Project_Part_4/blob/main/Plots/Correlation%20%20Number%20of%20covid%20cases%20and%20UI%20claims.png)
  
