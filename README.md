@@ -76,12 +76,12 @@ This graph contains the time series representation of the number of Covid cases,
 
 - **Number of monthly covid cases, Unemployment rate, and UI claims - Harris County
 This graph contains the time series representation of the number of monthly covid cases, unemployment rate and UI claims
- ![2](https://github.com/03ananya/Project_Part1/blob/main/Plots/Infection%20rate%20of%20Harris%20county.jpeg)
+ ![2](https://github.com/03ananya/Project_Part_4/blob/main/Plots/Number%20of%20monthly%20covid%20cases%2C%20Unemployment%20rate%2C%20and%20UI%20claims.png)
 
 
 - **Correlation Plots
 Correlation - Number of covid cases and Unemployment Rate 
- ![3](https://github.com/03ananya/Project_Part1/blob/main/Plots/Growth%20of%20Infection%20Rate.jpeg)
+ ![3](https://github.com/03ananya/Project_Part_4/blob/main/Plots/Correlation%20-%20Number%20of%20covid%20cases%20and%20Unemployment%20Rate.png)
 
 Correlation - Number of covid cases and UI Claims
  ![4](https://github.com/03ananya/Project_Part_4/blob/main/Plots/Correlation%20%20Number%20of%20covid%20cases%20and%20UI%20claims.png)
