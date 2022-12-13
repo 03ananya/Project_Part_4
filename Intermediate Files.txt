@@ -1,0 +1,13 @@
+﻿After standardizing and merging all datasets into a single monthly file, we obtain the following dataset - Intermediate Files.csv
+It has the following columns:
+* Date
+* Monthly_cases
+* UNRATE
+* Initial_claims
+* continued_claims
+* Covered_employment
+* Insured_unemployment_rate
+* Face_Masks_Required_in_Public
+
+
+It is a monthly dataset with the incremental number of monthly cases as “monthly_cases”, and aggregated weekly UI claims as “initial_claims”

@@ -1,0 +1,11 @@
+﻿External Data Details
+In addition to the data used in Part 1 of the analysis, these datasets were used.
+
+
+1. Unemployment data from FRED
+The first dataset that I will use is from FRED, which is short for  Federal Reserve Economic Data. The data has the unemployment rate from 1990 to 2022.The link for this dataset is  https://fred.stlouisfed.org/series/UNRATE 
+The dataset has 393 rows and 2 columns. It has the unemployment rates from 1990 to 2022. This dataset was last updated on November 4th 2022. The units of unemployment is percentage and has been seasonally adjusted for unemployment based on the economic cycle. The granularity of the data is monthly, which is not the same as the granularity of the other datasets in the analysis. 
+Data usage terms and conditions- https://fred.stlouisfed.org/legal/#full-fred-terms 
+2. Unemployment Insurance Claims data from DOL
+The second dataset has been taken from the  United States Department Of Labor. The link to the dataset is: https://oui.doleta.gov/unemploy/. It has weekly insurance claims data. The raw data is provided in comma delimited files. The files are updated every morning with data available to the National Office database the previous day by 3:00PM Eastern Time.
+This dataset comes under the Freedom of Information Act.
