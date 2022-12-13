@@ -1,7 +1,6 @@
 # Project_Part_4
 
 Data-512-Project - An Analysis of COVID-19’s Impact on Unemployment
-
 ================================
 This repository contains the part 4 of the for DATA 512 course project
 
