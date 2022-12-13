@@ -87,4 +87,7 @@ Correlation - Number of covid cases and Unemployment Rate
 Correlation - Number of covid cases and UI Claims
  ![4](https://github.com/03ananya/Project_Part_4/blob/main/Plots/Correlation%20-%20Number%20of%20covid%20cases%20and%20UI%20claims.png)
  
+Previous Analysis
+--------------------
+The part 1 of the analysis can be found here : https://github.com/03ananya/Project_Part1
 
